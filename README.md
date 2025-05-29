@@ -7,7 +7,9 @@ project overview
 create database DSA_DB
 
 Ms Excel for data cleaning [DownloadHere](http://www.microsoft)
-
+```  SQL
+SELECT A, B,C
+WHERE A>15
 
 insert into Employee (staffid, firstname, LastName, gender, DateoFBirth,hiredate)
 values ( 'AB201', 'Ayan', 'Olakun', 'female', '1992-08-22', '2018-02-09'),
